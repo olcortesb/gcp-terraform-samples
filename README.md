@@ -132,3 +132,5 @@ $ terraform destroy
 ```
 
 # References
+- https://cloud.google.com/functions/docs/tutorials/terraform?hl=es-419
+- https://cloud.google.com/nodejs/docs/setup?hl=es-419
